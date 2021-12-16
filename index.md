@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CACDAR wiki!
+
+![image info](./Architecture.png)
 
 You can use the [editor on GitHub](https://github.com/CACDAR-Project/Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
